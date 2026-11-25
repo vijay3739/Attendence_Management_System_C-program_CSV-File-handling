@@ -48,5 +48,5 @@ On first run, the program automatically generates three CSV files in the working
 
 ### Compilation & Execution
 ```bash
-gcc attendance.c -o attendance
+gcc Project_Attendance_management.c -o attendance
 ./attendance
