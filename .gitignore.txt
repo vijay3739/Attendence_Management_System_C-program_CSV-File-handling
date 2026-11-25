@@ -1,0 +1,14 @@
+# Compiled executables and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Auto-generated runtime CSV databases and temp files
+users.csv
+students.csv
+attendance.csv
+temp_*.csv
+
+# Editor / IDE settings (optional)
+.vscode/
